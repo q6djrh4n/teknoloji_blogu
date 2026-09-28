@@ -1,15 +1,18 @@
+
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "chrome",
-            "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
-        }
+    "name": " denemelerss.lovestoblog.com", 
+    "host": "ftpupload.net",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "if0_42913559 (q6djrh4n)",
+    "password": "kdrhn774326437",
+    "remotePath": "/htdocs/teknoloji_blogu",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false,
+ "ignore": [
+        ".vscode",
+        ".git",
+        ".DS_Store"
     ]
 }
